@@ -32,6 +32,9 @@ description: Singularity Defense Corp (operating on singularityus.com) is a defe
   or developer documentation. Added to the API Evangelist network as a venture-portfolio
   lead; this enrichment pass confirmed the company has no public API surface.
 url: https://raw.githubusercontent.com/api-evangelist/singularityus/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Added to the API Evangelist network as a venture-portfolio lead; this enrichment pass confirmed the company has no public API surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
